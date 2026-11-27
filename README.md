@@ -13,6 +13,7 @@
 
 ## 数据与代码
 
+- [查看完整研究报告（PDF）](report.pdf)
 - [查看研究 Notebook](csi300_factor_research.ipynb)
 - [原始数据来源](https://github.com/chenditc/investment_data/releases/tag/2026-11-26)
 
